@@ -1,1 +1,3 @@
-import ejercicios.ejecicio_1
+import ejercicios
+
+print(ejercicios.numeros)
