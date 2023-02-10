@@ -1,3 +1,4 @@
+#Escribir una función que calcule el factorial de un número dado.
 if __name__ == "__main__":
 
     def calcular_factorial(numero):

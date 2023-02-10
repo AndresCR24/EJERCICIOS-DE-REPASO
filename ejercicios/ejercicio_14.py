@@ -1,3 +1,4 @@
+#. Escribir una función que calcule la media aritmética de una lista de números.
 if __name__ == "__main__":
 
     def sumar_lista(lista):
@@ -21,4 +22,4 @@ if __name__ == "__main__":
     menor = min(lista_numeros)
     print(lista_numeros)
     promedio = (sumar_lista(lista_numeros))/cantidad_numeros
-    print(F"El promedio de la lista de numeros es {promedio}")
+    print(F"La media aritmetica de la lista de numeros es {promedio}")

@@ -1,3 +1,5 @@
+#Crear un programa que pida al usuario ingresar dos números y calcule su suma, resta, multiplicación y
+#división.
 if __name__ == "__main__":
 
     numero_1 = float(input("Ingrese un numero: "))

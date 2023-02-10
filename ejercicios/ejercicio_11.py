@@ -1,3 +1,4 @@
+#Crear un programa que genere una lista de números pares entre 1 y 100.
 if __name__ == "__main__":
     numero = 1
     lista_numeros = []

@@ -1,3 +1,4 @@
+#Crear un programa que pida al usuario ingresar una cadena de texto y determine si es un palíndromo o no.
 if __name__ == "__main__":
 
     def palindromo(cadena):

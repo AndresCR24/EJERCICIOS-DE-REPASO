@@ -1,3 +1,4 @@
+#Crear un programa que calcule la suma de los números en una lista dada.
 if __name__ == "__main__":
 
     def sumar_lista(lista):

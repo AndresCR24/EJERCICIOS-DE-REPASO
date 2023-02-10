@@ -1,3 +1,4 @@
+#Crear una función que convierta grados Fahrenheit a grados Celsius.
 if __name__ == "__main__":
     
     ingrese_grados_Fahrenheit = int(input("Ingrese los grados Fahrenheit que desea convertir a grados celsius: "))

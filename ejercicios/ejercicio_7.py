@@ -1,3 +1,4 @@
+#Escribir un programa que encuentre el número más grande y el más pequeño en una lista dada.
 if __name__ == "__main__":
     lista_numeros = []
     cantidad_numeros = int(input("Ingrese la cantidad de numeros que quieres que tenga la lista: "))
